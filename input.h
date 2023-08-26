@@ -5,6 +5,7 @@
 #include <string>
 #include <vector>
 #include <cmath>
+//апролдж
 using namespace std;
 
 #ifndef INPUT_H
