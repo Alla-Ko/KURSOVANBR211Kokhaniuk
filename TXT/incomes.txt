@@ -1,4 +1,4 @@
-Salary*card	35000	0	0
+Salary*card	35001	0	0
 For*a*rainy*day	217	1	2
 EUR*card	117	2	3
 Credit*card	100	0	1

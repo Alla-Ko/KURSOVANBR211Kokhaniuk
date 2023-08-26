@@ -1,4 +1,4 @@
-Credit*card	10000	0	0
+Credit*card	10001	0	0
 Credit*card	500	0	1
 Credit*card	2500	0	2
 EUR*card	113	2	3

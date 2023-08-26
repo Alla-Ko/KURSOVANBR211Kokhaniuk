@@ -77,6 +77,7 @@ void Curr_to_file() {
   }
   out_cur.close();
 }
+int aa=5;
 //читання з файла курсів.....................................................
 void Curr_from_file() {
   ifstream in_cur("TXT/currency.txt");

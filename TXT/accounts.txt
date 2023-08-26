@@ -1,5 +1,5 @@
 555.2	0	0	My*purse	0
 196	100	1	For*a*rainy*day	0
--2369.87	-100	0	Credit*card	1
+-2369.88	-100	0	Credit*card	1
 21601	0	0	Salary*card	1
 895	1001	2	EUR*card	1
