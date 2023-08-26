@@ -1,0 +1,11 @@
+1000	1000	0	0	Salary*card	Credit*card
+1000	1000	0	0	Salary*card	Credit*card
+1500	1500	0	0	Salary*card	Credit*card
+1007	1007	0	0	Salary*card	Credit*card
+15	555.2	1	0	For*a*rainy*day	My*purse
+117	4914.13	2	0	EUR*card	Credit*card
+1000	1000	0	0	Salary*card	Credit*card
+2100	2100	0	0	Salary*card	Credit*card
+1200	1200	0	0	Salary*card	Credit*card
+2110	2110	0	0	Salary*card	Credit*card
+2000	2000	0	0	Salary*card	Credit*card
